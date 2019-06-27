@@ -1,1 +1,1 @@
-web: ./build/install/leave/bin/leave
+web: ./build/install/LeaveManagement/bin/LeaveManagement
